@@ -1,0 +1,35 @@
+# 默认值
+DEFAULT_PID = 1
+DEFAULT_MAX = 20
+
+# 进程管理信息常量
+READY_QUEUE_TOP = 0
+TIME_SLOT = 3
+NO_NEW_PROCESS = 0  # 判断是否有新进程加入
+NEW_PROCESS = 1
+
+# 进程信息常量
+OS_CREATE = 0
+FORK_CREATE = 1
+MAX_PRIORITY = 1
+MIN_PRIORITY = 10
+ORDER_LENGTH = 4
+PC_BEGIN = 0
+
+# 指令信息常量
+INSTRUCTION = 0
+PARAM1 = 1
+PARAM2 = 2
+
+# IO、CPU记录信息常量
+END = -1  # IO记录信息的最后一个位置
+IO_END_TIME = 1
+IO_BEGIN_TIME = 0
+CPU_RECORD_PID = 0
+CPU_END_TIME = 1
+CPU_BEGIN_TIME = 1
+
+# 其它标志常量
+EMPTY = 0
+ERROR = -1
+INIT = 0

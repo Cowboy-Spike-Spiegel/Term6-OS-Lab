@@ -1,0 +1,24 @@
+/ next
+1 1 1
+22 next
+$
+\22 22 3
+33 33 4
+aaa next
+33 next
+$
+\33 33 12
+$
+\aaa aaa 6
+aac next
+$
+\aac aac 9
+aaaa next
+$
+\aaaa aaaa 10
+aaaaaa aaaaaa 7
+qqq next
+$
+\qqq qqq 11
+$
+$
